@@ -19,7 +19,8 @@ public class JavaApplication2 {
        //outputs greeting to the world in the console
       System.out.println("Hello, World");
       System.out.println("Hello, Again!");
-      System.out.println("Some additional Lines!")
+      System.out.println("Some additional Lines!");
+      System.out.println("Why is this fool forgettting his semicolons?");
    }
     
 }
